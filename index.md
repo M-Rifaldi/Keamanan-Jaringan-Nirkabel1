@@ -1,5 +1,5 @@
 # Keamanan Jaringan Nirkabel
-[Image](gambar.jpg)
+![Image](gambar.jpg)
 
 You can use the [editor on GitHub](https://github.com/M-Rifaldi/Keamanan-Jaringan-Nirkabel1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
